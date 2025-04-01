@@ -18,7 +18,8 @@ Atualmente, sou **🛠️ Estagiária na equipe de engenharia de software do Pag
 - ✨ **Acredito no poder da tecnologia para transformar vidas!**
 
 ## 📫 Como me encontrar  
-📩 Quer bater um papo? Me chama no LinkedIn: [Mikaele Santos](https://www.linkedin.com/in/mikaele-s/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MikaeleSantos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mikaele-s/)  
+📩 Quer bater um papo? Me chama no LinkedIn ou no Instagram: [@pyladiesfortaleza](https://www.instagram.com/pyladiesfortaleza/) 😊
 
 ---
 

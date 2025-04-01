@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Mikaele Santos
 
-<!--
-**MikaeleSants/MikaeleSants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedora em Formação** | 🎓 **UNIFOR & Unifanor** | 🚀 **Apaixonada por Tecnologia**
 
-Here are some ideas to get you started:
+🌍 Sou **nordestina**, de **Fortaleza - CE**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou desenvolvedora em formação, cursando **Análise e Desenvolvimento de Sistemas** na **UNIFOR** (tecnólogo) e **Ciência da Computação** na **Unifanor** (bacharelado).
+
+Atualmente, sou **🛠️ Estagiária na equipe de engenharia de software do PagBank** e faço parte da **🌵🌸 Organização da PyLadies**, uma comunidade dedicada a apoiar e incentivar mulheres na tecnologia por meio de eventos, tutoriais e mentorias. Recentemente, em parceria com a **🐧 LinuxTips**, estamos certificando mais de **100 mulheres** em cursos de diversas áreas!
+
+👩‍💻 Quer conhecer mais sobre a nossa comunidade? Siga no LinkedIn: [PyLadies Fortaleza](https://www.linkedin.com/company/pyladiesfortaleza/?viewAsMember=true) ou no Instagram: [@pyladiesfortaleza](https://www.instagram.com/pyladiesfortaleza/)
+
+## 🚀 Sobre mim
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200px" align="right"/>
+
+- 🌱 **Aprendendo atualmente:** Spring Boot, React, Docker e Python.
+- 💜 **Apaixonada por tecnologia, comunidades e vôlei.**
+- ✨ **Acredito no poder da tecnologia para transformar vidas!**
+
+## 📫 Como me encontrar  
+📩 Quer bater um papo? Me chama no LinkedIn: [Mikaele Santos](https://www.linkedin.com/in/mikaele-s/)
+
+---
+
+🚀 **A tecnologia transformou minha vida, e meu propósito é retribuir, ajudando outras mulheres a conquistarem seus espaços através da tecnologia.**

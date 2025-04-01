@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Mikaele Santos
 
-💻 **Desenvolvedora em Formação** | 🎓 **UNIFOR & Unifanor** | 🚀 **Apaixonada por Tecnologia**
+💻 **Desenvolvedora em Formação** | ⚙️ **BackEnd** | 🎓 **UNIFOR & Unifanor** | 🚀 **Apaixonada por Tecnologia**
 
 🌍 Sou **nordestina**, de **Fortaleza - CE**!
 
@@ -35,6 +35,6 @@ Atualmente, sou **🛠️ Estagiária na equipe de engenharia de software do Pag
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25kd3h4emRiODQzaXJveHVjcTk4dG15bnhlbGI1NmV0bnhkNTlyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif" width="150">
+   <img src="https://media.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif" width="150">
   <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif" width="150">
 </div>

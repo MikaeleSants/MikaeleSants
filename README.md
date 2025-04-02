@@ -14,17 +14,17 @@ Atualmente, sou **🛠️ Estagiária na equipe de engenharia de software do Pag
 👩‍💻 Quer conhecer mais sobre a nossa comunidade? Siga no LinkedIn: [PyLadies Fortaleza](https://www.linkedin.com/company/pyladiesfortaleza/?viewAsMember=true) ou no Instagram: [@pyladiesfortaleza](https://www.instagram.com/pyladiesfortaleza/)
 
 ## 🚀 Sobre mim
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" align="left" style="margin-right: 20px;">
-
-- 🌱 **Aprendendo atualmente:** Spring Boot, React, Docker e Python.
-- 💜 **Apaixonada por tecnologia, comunidades e vôlei.**
-- ✨ **Acredito no poder da tecnologia para transformar vidas!**
-
-<div style="clear: both;"></div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" style="margin-right: 20px;">
+  <div>
+    - 🌱 <strong>Aprendendo atualmente:</strong> Spring Boot, React, Docker e Python.<br>
+    - 💜 <strong>Apaixonada por tecnologia, comunidades e vôlei.</strong><br>
+    - ✨ <strong>Acredito no poder da tecnologia para transformar vidas!</strong>
+  </div>
+</div>
 
 ## 📫 Como me encontrar  
-[![LinkedIn Original](https://img.shields.io/badge/LinkedIn-MikaeleSantos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mikaele-s/)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MikaeleSantos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mikaele-s/)
 ---
 
 
